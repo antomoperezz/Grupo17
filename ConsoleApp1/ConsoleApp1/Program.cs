@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hola, vamos a intentar crear un error de tipo 3");
         }
     }
 }
